@@ -1,0 +1,2 @@
+
+https://medium.com/@alexfoleydevops/terraform-fastapi-encryption-975f1348f69b

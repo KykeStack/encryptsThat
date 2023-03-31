@@ -1,9 +1,0 @@
-This page contains information about all 332 languages for which official Wikipedias have been created under the auspices of the Wikimedia Foundation. The table below, however, excludes 11 Wikipedias that were closed and moved to the Wikimedia Incubator for further development, leaving a current total of 321 active Wikipedias. Content in other languages is being developed at the Wikimedia Incubator; languages which meet certain criteria can get their own wikis.
-
-The table entries are ordered by current article count. Each entry gives the language name in English (linked to the English Wikipedia article for the language); its "local name" (i.e. in the language itself, linked to the article in that language's wiki); the language code used in the wiki's URL address and in interwiki links to it (linked to the local Main Page); and statistics on articles, edits, administrators, users, active users, and images (each linked to an appropriate local special page).
-
-To start a Wikipedia in a new language, please see our language proposal policy and the Incubator manual. Note: Just adding a link here does not create a new Wikipedia, nor does it serve to request that one be created.
-
-If a wiki becomes active and is not listed here, please post a notice on this article's talk page, including a link to all the relevant Wikipedia pages, and help promote the effort by announcing it on the Wikipedia-L mailing list, and at Wikimedia News.
-
-The tables here are maintained automatically based on statistics collected by a bot four times a day, so it is not necessary to "manually" update the table. (The way this is being done makes that impossible, anyway.) If something is wrong with an entry other than simply having slightly outdated statistics, post about it on the talk page.
